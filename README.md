@@ -259,6 +259,3 @@ O desenvolvedor não se responsabiliza por qualquer utilização indevida do sof
 
 ---
 
-## Licença
-
-Defina a licença do projeto conforme a necessidade do repositório (MIT, GPLv3, Apache 2.0 ou equivalente).
