@@ -1,0 +1,7 @@
+# Spectra802 - Core Dependencies
+
+# Captura de pacotes e análise 802.11
+scapy>=2.5.0
+
+# Gerenciamento de variáveis de ambiente
+python-dotenv>=1.0.0
